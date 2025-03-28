@@ -12,7 +12,7 @@
         "KC_T"
       ],
       [
-        "LT3(KC_BSLASH)",
+        "KC_BSLASH",
         "KC_A",
         "KC_S",
         "KC_D",
@@ -229,9 +229,9 @@
         -1,
         -1,
         -1,
-        "RESET",
-        "MAGIC_SWAP_LCTL_LGUI",
-        "MAGIC_UNSWAP_LCTL_LGUI"
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS"
       ],
       [
         "KC_TRNS",
